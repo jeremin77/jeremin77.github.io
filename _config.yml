@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jieming's Homepage"
+title                    : "Jeremin's Homepage"
 title_separator          : "-"
 name                     : &name "Jieming Ma"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jieming Ma"
-  avatar           : "IMG_1561.jpeg"
+  avatar           : "IMG_1555.jpeg"
   bio              : "Graduate student, New York University"
   location         : "Shenzhen, China"
   employer         :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/jeremin77"
+  github           : "jeremin77"
   google_plus      :
   keybase          :
   instagram        :
