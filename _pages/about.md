@@ -9,22 +9,15 @@ redirect_from:
 ---
 👋🏼 Hello there, my name is Jieming Ma(In its originality, 马介明). I'm a graduate student in Computer Engineering at [New York University](https://www.nyu.edu/), [Tandon School of Engineering](https://engineering.nyu.edu/). Before that, I received my Bachelor in Electrical Engineering from Wuhan University of Science and Technology in 2020.
 
-Previously, I spent a wonderful semester studying at Sichuan University in fall 2020. I also interned at Amazon, Beijing in summer 2019, and Tencent Games, Shenzhen in summer 2020. I was a research assistant at NYU from spring 2021 to summer 2021.
+Previously, I spent a wonderful semester studying at Sichuan University, PMCIRI lab in spring 2021. I also interned at NYU Video Lab, Brooklyn in the spring and summer 2022, and NYU Multimedia and Visual Computing Lab, remotely in the spring and summer 2023, supervised by Pro. Yi Fang and Dr. Hao Huang. Now I am a research assistant at HIT(SZ), working with Pro. Lu Guangming.
 
 
 Selected Projects
 ======
-pository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers
+1. sad
+2. Project
+3. Projcet
 
-
-News
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
 
 News
