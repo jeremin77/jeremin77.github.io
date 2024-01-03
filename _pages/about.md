@@ -48,4 +48,4 @@ Transformer models have demonstrated their promising potential and achieved exce
 
 News
 ------
-I am actively looking for full-time Ph.D. opportunities starting fall of 2024, please kindly [reach out to me](<jm9013@nyu.edu>) if your team is hiring!
+I am actively looking for full-time Ph.D. opportunities starting fall of 2024, please kindly reach out to me (<jm9013@nyu.edu>) if your team is hiring!
