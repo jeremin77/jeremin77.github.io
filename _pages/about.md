@@ -28,14 +28,18 @@ Selected Projects
 ### Removing objects from Neural radiance field
 aaa
 
-### Synthetis 3D Spine volume reconstruction from biplanar X-rays
-aaa
+### Synthetis 3D Spine volume reconstruction from biplanar X-rays (code releasing soon)
 
-### Plant Tracer Project
-aaa
+CT scans are associated with higher radiation exposure and cost compared to conventional X-ray imaging. In this study, we applied a Generative Adversarial Network (GAN) framework to reconstruct 3D spinal vertebrae structures from synthetic biplanar X-ray images, specifically focusing on anterior and lateral views. This approach leverages a novel feature fusion technique based on X2CT-GAN to combine information from both views and employs a combination of MSE loss and adversarial loss to train the generator, resulting in high-quality synthetic 3D spinal vertebrae CTs. The results demonstrated the effectiveness of this approach in reconstructing 3D spinal vertebrae structures from biplanar X-rays.
 
-### Adan and WDPruning enhanced Vision Transformer
-aaa
+
+### Plant Tracer Project ([web](https://steinhardt.nyu.edu/create/research/plant-tracer)) ([demo](https://drive.google.com/file/d/1itnG3V88YSmqFTKZPXTMCurP8GJogcph/view?usp=sharing))
+
+”Plant Tracer” is a new App designed to enable the analysis of plant movement from time-lapse movies. Use Plant Tracer as part of a crowd-sourced method to search for novel mutant plants that do not move properly. This will help the scientific community identify new genes involved in plant movement and help reveal the genetic signals regulating plant movement. We Contributed a new dataset containing 100K frames for evaluating plant growing tracking performance in real scenes with novel metrics and reimplemented some influential algorithms, especially Spatio-temporal Transformer, JDE, and CenterTrack networks, and integrated them into a unified framework for convenient selection.
+
+### Adan and WDPruning enhanced Vision Transformer ([code](https://planttracer.com/))
+
+Transformer models have demonstrated their promising potential and achieved excellent performance on a series of computer vision tasks. However, the huge computational cost of vision transformers hinders their deployment and application to edge devices. In this task, we will explore some techniques to reduce training time and Flops but the result does not compromise the accuracy. We implement a state-of-the-art optimization algorithm, Adaptive Nesterov Momentum Algorithm, and Width and Depth Pruning of VIT, a pruning method to reduce computational redundancy while minimizing accuracy loss. The results show that they can reduce training time and Flops but the result does not compromise the accuracy.
 
 News
 ------
