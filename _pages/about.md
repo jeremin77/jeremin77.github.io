@@ -27,7 +27,7 @@ Selected Projects
 ======
 ### Removing objects from Neural radiance field ([demo](https://drive.google.com/drive/folders/10-qTFVi1lqTiYxr7q8Vnfe5t9Y6ejnxw?usp=sharing))
 
-<img src="WechatIMG72.jpg" width="200" height="320" ><img src="WechatIMG73.jpg" width="200" height="320" >
+<img src="/_pages/WechatIMG72.jpg" width="200" height="320" ><img src="/_pages/WechatIMG73.jpg" width="200" height="320" >
 
 Neural Radiance Fields (NeRFs) have emerged as a popular approach for novel view synthesis. While NeRFs are quickly being adapted for a wider set of applications, intuitively editing NeRF scenes is still an open challenge. One important editing task is the removal of unwanted objects from a 3D scene, such that the replaced region is visually plausible and consistent with its context. To tackle this problem, we propose a unified Neural Radiance Field (NeRF) framework to effectively perform joint scene decomposition and composition for modeling real-world scenes. The decomposition aims at learning disentangled 3D representations of different objects and the background, allowing for scene editing, while scene composition models an entire scene representation for novel view synthesis.
 
@@ -38,7 +38,7 @@ CT scans are associated with higher radiation exposure and cost compared to conv
 
 ### Plant Tracer Project ([web](https://planttracer.com/)) ([demo](https://drive.google.com/file/d/1itnG3V88YSmqFTKZPXTMCurP8GJogcph/view?usp=sharing))
 
-<img src="WechatIMG74.jpg" width="320" height="250" ><img src="WechatIMG75.jpg" width="320" height="250" >
+<img src="/_pages/WechatIMG74.jpg" width="320" height="250" ><img src="/_pages/WechatIMG75.jpg" width="320" height="250" >
 
 ”Plant Tracer” is a new App designed to enable the analysis of plant movement from time-lapse movies. Use Plant Tracer as part of a crowd-sourced method to search for novel mutant plants that do not move properly. This will help the scientific community identify new genes involved in plant movement and help reveal the genetic signals regulating plant movement. We Contributed a new dataset containing 100K frames for evaluating plant growing tracking performance in real scenes with novel metrics and reimplemented some influential algorithms, especially Spatio-temporal Transformer, JDE, and CenterTrack networks, and integrated them into a unified framework for convenient selection.
 
