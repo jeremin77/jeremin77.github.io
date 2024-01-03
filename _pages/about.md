@@ -27,6 +27,8 @@ Selected Projects
 ======
 ### Removing objects from Neural radiance field ([demo](https://drive.google.com/drive/folders/10-qTFVi1lqTiYxr7q8Vnfe5t9Y6ejnxw?usp=sharing))
 
+<img src="WechatIMG72.jpg" width="200" height="320" ><img src="WechatIMG73.jpg" width="200" height="320" >
+
 Neural Radiance Fields (NeRFs) have emerged as a popular approach for novel view synthesis. While NeRFs are quickly being adapted for a wider set of applications, intuitively editing NeRF scenes is still an open challenge. One important editing task is the removal of unwanted objects from a 3D scene, such that the replaced region is visually plausible and consistent with its context. To tackle this problem, we propose a unified Neural Radiance Field (NeRF) framework to effectively perform joint scene decomposition and composition for modeling real-world scenes. The decomposition aims at learning disentangled 3D representations of different objects and the background, allowing for scene editing, while scene composition models an entire scene representation for novel view synthesis.
 
 ### Synthetis 3D Spine volume reconstruction from biplanar X-rays (code releasing soon)
