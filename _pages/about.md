@@ -11,14 +11,31 @@ redirect_from:
 
 Previously, I spent a wonderful semester studying at Sichuan University, PMCIRI lab in spring 2021. I also interned at NYU Video Lab, Brooklyn in the spring and summer 2022, and NYU Multimedia and Visual Computing Lab, remotely in the spring and summer 2023, supervised by Pro. Yi Fang and Dr. Hao Huang. Now I am a research assistant at HIT(SZ), working with Pro. Lu Guangming.
 
+My current research interests are in machine-learning and deep-learning models for solving computer-vision/image-processing tasks, with a particular focus on editable neural radiance field, medical image processing, and video object tracking.
+
+Research Experiences
+======
+Research Assistant, at HIT(SZ), Nov 2023 -- Present
+
+Research Assistant, supervised by [Professor Yi Fang](https://engineering.nyu.edu/faculty/yi-fang) and Dr. Hao Huang remotely, May 2023 -- Present
+
+Research Intern, at [NYU Multimedia and Visual Computing Lab](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/multimedia-and-visual-computing-lab.html), Dec 2022 -- May 2023
+
+Research Intern, at [NYU Video Lab](https://wp.nyu.edu/videolab/), Brooklyn supervised by Prof. Yao Wang, Jan 2022 -- May 2022
 
 Selected Projects
 ======
-1. sad
-2. Project
-3. Projcet
+### Removing objects from Neural radiance field
+aaa
 
+### Synthetis 3D Spine volume reconstruction from biplanar X-rays
+aaa
 
+### Plant Tracer Project
+aaa
+
+### Adan and WDPruning enhanced Vision Transformer
+aaa
 
 News
 ------
